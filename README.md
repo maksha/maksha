@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @maksha
-- 👀 IT security auditor, digital forensics investigator cum analyst, desktop/mobile apps developer, and systems engineer (mobile/desktop, IoT, servers)
-- 🌱 data analytics
-- 💞️ open source project
+- 👀 Work
+  - IT Security Auditor,
+  - Digital Forensics Investigator cum Examiner,
+  - Desktop/Mobile Apps Developer,
+  - and Systems Engineer
+-  🌱 Data Analyst
+- 💞️ Open Source Projects
 
 <!---
 maksha/maksha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
