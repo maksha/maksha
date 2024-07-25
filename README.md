@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maksha
-- 👀 desktop/mobile apps development, computer forensics investigator, and systems engineering
+- 👀 IT security auditor, digital forensics investigator cum analyst, desktop/mobile apps developer, and systems engineer (mobile/desktop, IoT, servers)
 - 🌱 data analytics
 - 💞️ open source project
 
