@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @maksha
 - 👀 Work
-  - IT Security Auditor,
-  - Digital Forensics Investigator cum Examiner,
+  - Systems Integrator,
+  - Cyber Security Auditor,
+  - Digital Forensics Investigator,
   - Desktop/Mobile Apps Developer,
   - and Systems Engineer
 -  🌱 Data Analyst
