@@ -21,6 +21,7 @@
 ---
 
 **My [Oh-My-Bash Theme](https://github.com/ohmybash/oh-my-bash)**: [Lyana.theme](https://gist.github.com/maksha/d32b3999da43fa88ce276a803fc08bc6)
-<br/><img width="613" height="135" alt="image" src="https://gist.github.com/user-attachments/assets/7e3e5718-42f9-4adf-8787-2937b2310ba4" /> 
+<br/><img width="613" height="135" alt="image" src="https://github.com/user-attachments/assets/5260eab9-3116-4fae-94ed-c8e8e78b86b2" />
+
 
 
