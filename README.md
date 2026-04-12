@@ -2,11 +2,11 @@
 
 ### A passionate software developer by day, digital forensics examiner by night
 
-- 🔭 I'm currently working on **Some cool software project**
+- 🔭 I'm currently working on **Some cool software projects**
 
 - 🌱 I'm currently learning **Golang, AI, Life**
 
-- 👯 I'm looking to collaborate on **Linux distro makers**
+- 👯 I'm looking to collaborate on **Linux distro makers, AI developers**
 
 - 🤝 I'm looking for help with **Communication skill**
 
@@ -21,6 +21,6 @@
 ---
 
 **My [Oh-My-Bash Theme](https://github.com/ohmybash/oh-my-bash)**: [Lyana.theme](https://gist.github.com/maksha/d32b3999da43fa88ce276a803fc08bc6)
-<br/><img width="432" height="72" alt="image" src="https://github.com/user-attachments/assets/6868d97c-1fc2-4710-8346-dedca35b8715" />  
+<br/><img width="613" height="135" alt="image" src="https://gist.github.com/user-attachments/assets/7e3e5718-42f9-4adf-8787-2937b2310ba4" /> 
 
 
